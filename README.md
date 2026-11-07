@@ -69,13 +69,13 @@ No external packages are needed. The game only uses `turtle`, `time`, `random` a
 ## Running the Game
 
 ```bash
-python escape_sequence.py
+python main.py
 ```
 
 On some systems use:
 
 ```bash
-python3 escape_sequence.py
+python3 main.py
 ```
 
 ---
